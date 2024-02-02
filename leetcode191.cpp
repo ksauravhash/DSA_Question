@@ -2,6 +2,7 @@
  * https://leetcode.com/problems/number-of-1-bits/description/
  */
 
+#include <cstdint>
 class Solution
 {
 public:
