@@ -3,6 +3,8 @@
 * https://leetcode.com/problems/count-primes/
 */
 
+// Sieve of Eratosthenes
+
 class Solution {
 public:
     int countPrimes(int n) {
